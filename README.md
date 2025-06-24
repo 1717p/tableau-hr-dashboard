@@ -1,4 +1,4 @@
-📊Interactive HR Dashboard built using Tableau
+## 📊Interactive HR Dashboard built using Tableau
 
 📌 About the Project
 This project is an interactive HR analytics dashboard built using Tableau.  
