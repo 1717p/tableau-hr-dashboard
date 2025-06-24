@@ -17,14 +17,10 @@ It helps visualize key HR metrics such as attrition rate, department-wise headco
 2. **Gender Distribution** – Analyzing male vs. female staff across roles.
 3. **Age Spread** – Visualizing the age demographics of the workforce.
 4. **Salary Analysis by Role** – Identifying which jobs pay higher on average.
-5. **Top Earners** – Listing the highest-paid employees per job.
+5. **Highest Paying Jobs** – Average Salary Of job Title.
 6. **Qualification vs. Salary** – Is there a relationship between education and income?
-7. **Employee Growth Trend** – How has the workforce grown over the past 5 years?
-8. **Employee Name Filter** – Search employees by the starting letter of their name.
-9. **Leave Balance Overview** – Identify staff with low or excessive leave balance.
-10. **Interactive HR Dashboard** – A visual summary with filters and KPIs.
-
----
+7. **Employee Name Filter** – Search employees by the starting letter of their name.
+--
 
 ## 📈 Tools Used
 
