@@ -7,7 +7,10 @@ It helps visualize key HR metrics such as attrition rate, department-wise headco
 
 ## 📁 Files Included
 - `HR_Dashboard.twbx` – Tableau workbook file
+- `hr-data-analysis.xlsx` – Dataset used
 
+
+hr-data-analysis.xlsx
 
 
 ## 🔗 Preview
