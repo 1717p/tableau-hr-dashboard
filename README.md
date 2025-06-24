@@ -37,11 +37,5 @@ It helps visualize key HR metrics such as attrition rate, department-wise headco
 
 This project simulates the work of an HR analyst tasked with exploring and visualizing key workforce insights. The interactive dashboard helps stakeholders make data-driven decisions about hiring, promotions, and workforce planning.
 
----
-
-
-hr-data-analysis.xlsx
-
-
 ## 🔗 Preview
 You can also view this project on (https://public.tableau.com/app/profile/p.n4696/viz/HR-dashboard_17492208938340/Dashboard1?publish=yes)
